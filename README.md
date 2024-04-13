@@ -1,2 +1,2 @@
-GRUPO 8: Jose Carlos Lopez Soria 
+GRUPO 8: Jose Carlos Lopez Soria, 
          Pablo Alvarez Flores 
