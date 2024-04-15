@@ -2,8 +2,8 @@
 #include <PubSubClient.h>
 #include <map>
 
-const char *WIFI_SSID = "ZTE_2.4G_Dq52Ed";
-const char *WIFI_PASS = "bXgt274i";
+const char *WIFI_SSID = "XXXXXX";
+const char *WIFI_PASS = "DDDDDD";
 
 const char *MQTT_BROKER_HOST = "broker.hivemq.com";
 const int MQTT_BROKER_PORT = 1883;
